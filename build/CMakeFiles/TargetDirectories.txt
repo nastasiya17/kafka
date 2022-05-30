@@ -1,0 +1,4 @@
+/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build/CMakeFiles/rebuild_cache.dir
+/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build/CMakeFiles/edit_cache.dir
+/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build/CMakeFiles/event_server.dir
+/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build/CMakeFiles/event_writer.dir

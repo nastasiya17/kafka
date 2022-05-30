@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_server.dir/main.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/main.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/main.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_server.dir/config/config.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/config/config.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/config/config.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_server.dir/database/database.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/database.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/database.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_server.dir/database/person.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/person.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/person.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_writer.dir/writer_main.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/writer_main.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/writer_main.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_writer.dir/config/config.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/config/config.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/config/config.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_writer.dir/database/database.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/database.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/database.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/event_writer.dir/database/person.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/person.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture-1/kafka/database/person.cpp"
+}
+]
