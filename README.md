@@ -14,10 +14,9 @@ send to queue: 1
 
 send to queue: 2
 
+## Запуск ./start_writer.sh
 
-Запуск ./start_writer.sh
-
-## Ответ:
+Ответ:
 
 {"age":54,"first_name":"Petr","last_name":"Sidorov","login":"123"}
 
