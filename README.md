@@ -2,7 +2,7 @@ docker-compose up
 
 Запуск ./start.sh
 
-## Запросы:
+* Запросы:
 
 POST http://localhost:8080/person?add&login=123&first_name=Petr&last_name=Sidorov&age=54
 
